@@ -1,0 +1,16 @@
+{
+  "name": "cypress-tutorials",
+  "version": "1.0.0",
+  "description": "a project to learn cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "author": "Jake Lewis",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^11.0.0"
+  }
+}
